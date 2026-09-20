@@ -1,0 +1,13 @@
+# Local virtual environment
+.venv/
+
+# Execution log and pre-run backup
+nbrun.log
+*.ORIG.ipynb
+
+# CityLearn dataset cache
+citylearn_datasets/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
